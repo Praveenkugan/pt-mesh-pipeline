@@ -1,0 +1,24 @@
+Assignment:
+Submitted on Internshala and my GitHub account GitCodeSM on 15th September 2022
+Submission on forked pipeline repository: {Swati Mishra}-{Caltrans_Plots_app}-{18th September 2022}
+
+
+Assignment Description:
+
+Data Collection and Chart Analysis Display Project
+Web scraping and data analysis project using Beautiful Soup bs4, CSV, Pandas, Streamlit, Jupyter notebook, Python3
+
+Project folder name: Caltrans_Plots_app
+Project files: 1. Caltrans_module.py
+               2. Campaign_Programs.csv
+               3. Caltrans_Contracts_Events.csv
+               4. Campaign_Programs.csv
+               5. DataTest.ipynb ----" For test cases"
+               6. Plotting.py
+               7. requirements.txt
+               8. runtime.txt
+
+Project Result: 1. A web scraper module of the California Procurement website to generate two CSV files on campaign programs and contracts bids.
+                2. A charts, analysis, and information display page with headers and footers using Streamlit and ":emojisense:" VS-Code extension. 
+
+Project by: Swati Mishra
